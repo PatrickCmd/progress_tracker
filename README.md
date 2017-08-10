@@ -15,7 +15,7 @@ view a list of skills I haven’t studied yet and see their learning progress.
 - `Track progress` Enables user to track his/her proggress
 
 ## Requirements
-`Python 3, click, python-pip, virtualenv
+`Python 3, click, python-pip, virtualenv`
 
 ## Installation
 First clone this repository.

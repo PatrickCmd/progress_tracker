@@ -29,9 +29,15 @@ $ virtualenv env
 $ source env/bin/activate
 ```
 Then install the application.
-` $ pip install --editable .`
+```
+$ pip install --editable .
+```
 ## Run the application
 To get help type on console
-`$ tracker --help`
+```
+$ tracker --help
+```
 Run the application
-`$ tracker --command=show_options`
+```
+$ tracker --command=show_options
+```
